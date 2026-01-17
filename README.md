@@ -3,8 +3,6 @@
 
 ## Task
 The challenge is to return informations relates to our spaceship in function of the letters we give in a string to the function.
-le problème est : on doit on renvoyer des valeurs x,y et la direction en fonction de 
-certaine lettre R,L & A (droit, gauche,avancer) grâce a un array donner  .
 
 ## Description
 In the program it will take a string with letters in it who are 'R', 'L', 'A'.
@@ -15,8 +13,11 @@ then once each letters has been succesfuly passed the informations will be retur
 There is no installation to do for this project
 
 ## Usage
-Use the function in the file, for example:
+'R' is to turn rigth
+'L' is to turn left
+'A' is to advance
 
+Use the function in the file, for example:
 ```
 my_spaceship("RRAALRRLLLAAAA")
 ```
